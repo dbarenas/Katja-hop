@@ -1,4 +1,9 @@
 
+#time complexity excersice
+#
+#logarithmic time
+#
+
 def logarithmic(N):
   result = 0
   while(N > 1):
@@ -6,5 +11,5 @@ def logarithmic(N):
     result +=1
   return result
 
-print logarithmic(10)
+print logarithmic(20)
 

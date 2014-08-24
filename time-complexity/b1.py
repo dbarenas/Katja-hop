@@ -1,4 +1,5 @@
 
+#dominant
 
 def dominant(N):
   result=0
