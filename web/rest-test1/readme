@@ -1,0 +1,3 @@
+
+Just a django restful service via djangorestframework
+list the data of authors and books in a database 
