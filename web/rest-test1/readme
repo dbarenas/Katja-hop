@@ -1,3 +1,5 @@
 
 Just a django restful service via djangorestframework
-list the data of authors and books in a database 
+list the data of authors and books in a database
+
+http://notoquesmicodigo.blogspot.com.es/2014/01/haciendo-una-api-rest-en-20-minutos-con.html
