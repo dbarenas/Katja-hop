@@ -1,0 +1,12 @@
+If you wanna use look this http://www.django-rest-framework.org/tutorial/2-requests-and-responses/
+
+
+curl http://127.0.0.1:8000/snippets/ -H 'Accept: application/json'  # Request JSON
+curl http://127.0.0.1:8000/snippets/ -H 'Accept: text/html'         # Request HTML
+
+
+curl -X POST http://127.0.0.1:8000/snippets/ -d '{"code": "print 9456"}' -H "Content-Type: application/json"
+{"id": 9, "title": "", "code": "print 9456", "linenos": false, "language": "python", "style": "friendly"}
+
+
+
