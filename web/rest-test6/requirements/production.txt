@@ -1,0 +1,6 @@
+-r base.txt
+uwsgi==2.0.4
+gevent==1.0.1
+mysql-python
+python-memcached
+boto
